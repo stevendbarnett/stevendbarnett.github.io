@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have had the opportunity to instruct the following courses.
+I have had the opportunity to instruct the following course.
 
 Virginia Tech
 ------
@@ -13,6 +13,7 @@ Virginia Tech
 A calculus-based introduction to probability and statistics, with a focus on electrical engineering applications
 
 * Fall 2024
+---
 
 I have had the opportunity to serve as a teaching assistant for the following courses.
 

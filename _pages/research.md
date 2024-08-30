@@ -10,8 +10,7 @@ Publications
 ### [Monotonic warpings for additive and deep Gaussian processes](https://arxiv.org/pdf/2408.01540)
 
 **Steven D. Barnett**, Lauren J. Beesley, Annie S. Booth, Robert B. Gramacy, and Dave Osthus (2024)  
-*In Review* (arXiv:2408.01540)
-
+*In Review* (arXiv:2408.01540)  
 Reproducible code available on [Bitbucket](https://bitbucket.org/gramacylab/deepgp-ex/)
 
 ### Laboratory Assessment of Predation and Fecundity of *Laricobius* Species (Coleoptera: Derodontidae), Predators of Hemlock Woolly Adelgid
