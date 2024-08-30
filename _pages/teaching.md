@@ -13,6 +13,9 @@ Virginia Tech
 A calculus-based introduction to probability and statistics, with a focus on electrical engineering applications
 
 * Fall 2024
+
+<hr style="border:2px solid gray">
+
 ---
 
 I have had the opportunity to serve as a teaching assistant for the following courses.
