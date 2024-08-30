@@ -16,12 +16,9 @@ Reproducible code available on [Bitbucket](https://bitbucket.org/gramacylab/deep
 
 ### Laboratory Assessment of Predation and Fecundity of *Laricobius* Species (Coleoptera: Derodontidae), Predators of Hemlock Woolly Adelgid
 
-Thomas J. McAvoy, Jeremiah R. Foley, **Steven D. Barnett**, Ryan Mays, Andrew Dechaine, and Scott M. Salom (2024)
-
+Thomas J. McAvoy, Jeremiah R. Foley, **Steven D. Barnett**, Ryan Mays, Andrew Dechaine, and Scott M. Salom (2024)  
 *To appear in Biocontrol Science & Technology*
 
 ### [Drivers of flood-induced relocation among coastal urban residents: Insight from the US east coast](https://doi.org/10.1016/j.jenvman.2022.116429)
-
-Anamaria Bukvic and **Steven Barnett** (2023)
-
+Anamaria Bukvic and **Steven Barnett** (2023)  
 *Journal of Environmental Management*
