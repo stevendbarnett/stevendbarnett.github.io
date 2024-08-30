@@ -21,7 +21,7 @@ repository               : "stevendbarnett/stevendbarnett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "steven_profile.jpg"
   name             : "Steven D. Barnett"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate <br> Department of Statistics <br> Virginia Tech <br> sdbarnett@vt.edu"
