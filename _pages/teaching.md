@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have had the opportunity to instruct the following course.
+I have had the opportunity to instruct the following course:
 
 Virginia Tech
 ------
@@ -16,9 +16,7 @@ A calculus-based introduction to probability and statistics, with a focus on ele
 
 <hr style="border:2px solid gray">
 
----
-
-I have had the opportunity to serve as a teaching assistant for the following courses.
+I have had the opportunity to serve as a teaching assistant for the following courses:
 
 Virginia Tech
 ------
