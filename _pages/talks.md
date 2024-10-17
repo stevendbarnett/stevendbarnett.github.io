@@ -10,7 +10,7 @@ Here are some of the places I have visited.
 Location				|	Date				|	Event
 -----					|	--------			|	--------------
 Greensboro, NC			|	October 2024		|	Advances in Interdisciplinary Statistics and Combinatorics
-Nashville, TN			|	Octboer 2024		|	Fall Technical Conference
+Nashville, TN			|	October 2024		|	Fall Technical Conference
 Portland, OR            |   August 2024         |   Joint Statistical Meetings
 Waterloo, CA			|	June 2024			|	Joint Research Conference on Statistics in Quality, Industry, and Technology
 Blacksburg, VA			|	May 2024			| 	Design and Analysis of Experiments Conference
