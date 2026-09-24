@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "steven_profile.jpg"
   name             : "Steven D. Barnett"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate <br> Department of Statistics <br> Virginia Tech <br> sdbarnett@vt.edu"
-  location         : "Blacksburg, VA"
-  employer         : "Virginia Tech"
+  pronouns         : "he/him"
+  bio              : "Staff Scientist/Statistician <br> Statistics Group <br> Los Alamos National Laboratory <br> sdbarnett@lanl.gov"
+  location         : "Los Alamos, NM"
+  employer         : "Los Alamos National Laboratory"
   uri              : # URL
   email            : # "none@example.org" 
 

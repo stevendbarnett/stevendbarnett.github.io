@@ -9,6 +9,12 @@ Here are some of the places I have visited.
 
 Location				|	Date				|	Event
 -----					|	--------			|	--------------
+Boston, MA				|	August 2026			|	Joint Statistical Meetings
+Santa Fe, NM			|	June 2026			|	Quality and Productivity Research Conference
+Minneapolis, MN         |	 March 2026			 |	 SIAM Conference on Uncertainty Quantification
+Houston, TX				|	October 2025		|	Fall Technical Conference
+Nashville, TN			|	August 2025			|	Joint Statistical Meetings
+New York, NY			|	June 2025			|	ASA/IMS Spring Research Conference
 Greensboro, NC			|	October 2024		|	Advances in Interdisciplinary Statistics and Combinatorics
 Nashville, TN			|	October 2024		|	Fall Technical Conference
 Portland, OR            |   August 2024         |   Joint Statistical Meetings
